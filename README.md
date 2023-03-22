@@ -1,5 +1,3 @@
-# Aufwärts stolpern
-
 ## Abonnieren
 <script class="podlove-subscribe-button" src="https://player.podigee-cdn.net/subscribe-button/javascripts/app.js" data-json-url="https://aufwaerts-stolpern.podigee.io/embed/subscribe_button"></script>
 
